@@ -7,7 +7,7 @@
  * Author URI:      https://fixonweb.com.br
  * Text Domain:     fix159760-cadastro-de-clientes
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         0.1.1
  *
  * @package         Fix159760_Cadastro_De_Clientes
  */
